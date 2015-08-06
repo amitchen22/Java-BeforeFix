@@ -3,8 +3,7 @@ namespace Book_Store
 	
 //gfdgfdhgdfg1hgfyrt
 //    Filenamefdfd: Default.cs
-//    Generated with3 CodeCharge 2.0.5
-//    ASP.NgfdgdfgdET C#.ccp build 03/07/2002
+//    Generated with3 CodeCharg ASP.NgfdgdfgdET C#.ccp build 03/07/2002
 //fdsgdsgfshgfdhfdhdf
 //-----dsfsfs--------------------------
 //
