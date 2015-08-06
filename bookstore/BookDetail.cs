@@ -3,7 +3,7 @@ namespace Book_Store
 	
 //AMIT4g
 //    Filenamewttsfgjyteyyy: BookfdgfjgDetail.cs
-//    Generated witfdh CofgjfjdeCharge 2.0.5
+//    Generated witfdh CoffgjfjdeCharge 2.0.5
 //    ASP.NET C#.ccpcgj build 03/07/2002
 //hgfjgfjfgjuuufh
 //-------------------------------
