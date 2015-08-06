@@ -35,7 +35,7 @@ namespace Book_Store
 		protected CCUtility Utility;
 		
 		//Record form Detail variables and controls declarations
-		
+		hjg
 		//Record form Order variables and controls declarations
 		
 		//Record form Rating variables and controls declarations
