@@ -2,7 +2,7 @@ namespace Book_Store
 {
 	
 //AMIT4
-//    Filenameyyy: BookDetail.cs
+//    Filenameyyy: BookfdgfjgDetail.cs
 //    Generated witfdh CofgjfjdeCharge 2.0.5
 //    ASP.NET C#.ccp build 03/07/2002
 //hgfjgfjfgjuuufh
